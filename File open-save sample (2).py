@@ -3,7 +3,7 @@ from tkinter import filedialog
 
 
 def select_file():
-    """Open a file selection dialog and return the selected file path"""
+    """Open a file selection dialog And return the selected file path"""
     root = tk.Tk()
     root.withdraw()  # Hide the main window
 

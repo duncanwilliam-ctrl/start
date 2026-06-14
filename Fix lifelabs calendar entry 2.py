@@ -2,7 +2,7 @@
 open file to Read
 read records
 if record contains identifier to fix,
-then find "-" and correct with nothing
+then find "-" and correct with nothing 
 write record to new file
 '''
 

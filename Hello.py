@@ -5,7 +5,7 @@ def pillock():
 
 
 poo = 5
-progress = 17 + 55 / poo
+progress = 17 + 51 / poo
 
 # comments mean nothing
 
